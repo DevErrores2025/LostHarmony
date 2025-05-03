@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 48172e29ee01dd84191f882aab233097
+  productGUID: 14171a825d250434c85f76a02e3a31fe
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: LostHarmony
+  productName: Menu
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -595,14 +595,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: LostHarmony
+  metroPackageName: Menu
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: LostHarmony
+  metroApplicationDescription: Menu
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -673,11 +673,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2918f997-fa4a-4985-af1e-2d2aeee136b4
+  cloudProjectId: 8681d165-3f2b-4c92-8533-32edb5492cff
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: LostHarmony
-  organizationId: hansama04
+  projectName: Menu
+  organizationId: aleuzz
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
