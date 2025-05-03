@@ -231,6 +231,14 @@ public class CatchableObject : MonoBehaviour
             isCaught = true;
             Debug.Log("Esbirro atrapado por " + other.name);
             
+            // Notificar al BossManager que se atrapó un esbirro
+            BossManager bossManager = FindObjectOfType<BossManager>();
+            if (bossManager != null)
+            {
+                bossManager.RegistrarEsbirroAtrapado();
+                Debug.Log("Notificada captura al BossManager");
+            }
+            
             // Get caught by the net or player
             Transform parent = other.transform;
             
