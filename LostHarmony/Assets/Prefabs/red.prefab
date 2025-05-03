@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1474837447257085718}
   - component: {fileID: 5025707397826778624}
-  - component: {fileID: 7619214966717416162}
   - component: {fileID: 7221085038965083269}
   m_Layer: 0
   m_Name: red
@@ -28,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 2704477738915780384}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.6846299, y: -0.6415617, z: -1}
+  m_LocalPosition: {x: -0.92119646, y: -2.252641, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -89,19 +88,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7619214966717416162
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2704477738915780384}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3de5b3854f223eb48a7acf0c63fd12a4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidad: 5
 --- !u!61 &7221085038965083269
 BoxCollider2D:
   m_ObjectHideFlags: 0
